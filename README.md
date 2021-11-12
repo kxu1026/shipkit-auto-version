@@ -67,6 +67,7 @@ plugins {
 }
 ```
 
+
 2. Configure and use the plugin in a preferred way.
    
    \
